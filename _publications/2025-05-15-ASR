@@ -1,12 +1,13 @@
 ---
-title: "BDS-3/GPS uncombined real-time PPP with PPP-B2b precise products: Modeling and its long-term performance evaluation"
+title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-05-15-ASR
-name: '<i>Wujiao Dai<sup>*</sup>, <strong>Ning Liu</strong>, Zhehao Zhang, Chengpan Tang, Zhixue Zhang, Yufei Yang, Lin Pan</i>'
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-05-15
-venue: 'Advances in Space Research'
-#paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
