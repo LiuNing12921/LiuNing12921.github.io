@@ -3,7 +3,7 @@ title: "BDS-3/GPS uncombined real-time PPP with PPP-B2b precise products: Modeli
 collection: publications
 category: manuscripts
 permalink: /publication/2025-05-15-ASR/
-name: '<i>Wujiao Dai<sup>*</sup>, <strong>Ning Liu</strong>, Zhehao Zhang, Chengpan Tang, Zhixue Zhang, Yufei Yang, Lin Pan</i>'
+name: 'Wujiao Dai<sup>*</sup>, <strong>Ning Liu</strong>, Zhehao Zhang, Chengpan Tang, Zhixue Zhang, Yufei Yang, Lin Pan'
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-05-15
 venue: 'Advances in Space Research'
@@ -12,18 +12,3 @@ paperurl: 'https://doi.org/10.1016/j.asr.2025.03.005'
 ---
 
 <font>Wujiao Dai<sup>*</sup>, <strong>Ning Liu</strong>, Zhehao Zhang, Chengpan Tang, Zhixue Zhang, Yufei Yang, Lin Pan</font>
-
-**Abstract**
-------
-Through PPP-B2b real-time precise products, BDS-3 can provide the real-time precise point positioning (PPP) service without relying on the Internet for users in China and its surrounding regions. In this study, the BDS-3/GPS uncombined real-time PPP model with PPP-B2b precise products is constructed. In the constructed model, a receiver clock offset parameter is introduced for each satellite system to account for the frequent changes of GPS satellite clock datums, and a compensation parameter is also introduced for each satellite to mitigate the effects of initial systematic bias of satellite clock offsets. In addition, the long-term positioning performance of BDS3/GPS real-time PPP with PPP-B2b precise products is evaluated using the observations from six stations spanning 196 days. The results show that the average convergence time can be 7.5 and 10.2 min (with a standard deviation (STD) of 3.9 and 6.4 min) over the analysis period in static and kinematic modes, respectively, which is shortened by 41.3% and 61.4% compared with the traditional model that ignores the influence of frequently switched datums and initial systematic bias of satellite clock offsets. The average positioning accuracy can be 4.6, 0.9, and 2.5 cm (with a STD of 1.3, 0.7, and 1.7 cm), and 6.4, 3.3, and 9.5 cm (with a STD of 2.3, 1.5, and 3.1 cm) in east, north, and up directions in static and kinematic modes, respectively. These results indicate that the BDS-3/GPS real-time PPP with PPP-B2b precise products can provide stable and reliable real-time high-precision navigation and positioning service.
-------
-
-**Keywords**
-------
-- BDS-3 PPP-B2b
-- Uncombined model
-- Satellite clock datums
-- Initial systematic bias
-- Real-time precise point positioning
-- Long-term performance
-------
